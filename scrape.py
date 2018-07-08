@@ -12,7 +12,6 @@ def scrape():
     driver = webdriver.Firefox()
 
     driver.get(link)
-
     #driver.window_handles
 
     # Get urls for each lens
@@ -38,14 +37,12 @@ def scrape():
 
     driver.close()
 
-
     # Error checking
     # print("len set: {}".format(len(set(urls))))
 
     # Filter out empty URLs
     urls = [url for url in urls if url is not None]
     # print("len set after removing empty: {}".format(len(set(urls))))
-
 
     # Create empty dataframe to hold lens data
 
