@@ -1,8 +1,6 @@
 # nikon_lenses
 
-[Tableau visualization](https://public.tableau.com/views/Nikon_Lenses/Dashboard2?:embed=y&:display_count=yes).
-
-I scraped data from Nikon's [online catalog](http://www.nikonusa.com/en/nikon-products/camera-lenses/all-lenses/index.page) and exported to a .csv. 
+Being in the market for a Nikon camera lens, I scraped data from Nikon's [online catalog](http://www.nikonusa.com/en/nikon-products/camera-lenses/all-lenses/index.page). I visualization in [Tableau](https://public.tableau.com/views/Nikon_Lenses/Dashboard2?:embed=y&:display_count=yes) to compare prices and specifications.
 
 # How to:
 
