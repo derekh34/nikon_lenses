@@ -45,7 +45,6 @@ def scrape():
     # print("len set after removing empty: {}".format(len(set(urls))))
 
     # Create empty dataframe to hold lens data
-
     r = requests.get(urls[0])
     soup = BeautifulSoup(r.text, "lxml")
 
