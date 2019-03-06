@@ -4,10 +4,10 @@ Being in the market for a Nikon camera lens, I scraped data from Nikon's [online
 
 I created [this Tableau dashboard](https://public.tableau.com/views/Nikon_Lenses/NikonLenses?:embed=y&:display_count=yes&publish=yes) to compare prices and specifications.
 
-# How to:
+### How to:
 
 Run clean_data.ipynb to generate .csv file.
 
-# Possible Next Steps:
+### Possible Next Steps:
 
 Investigate the most important features that drive lens prices.
